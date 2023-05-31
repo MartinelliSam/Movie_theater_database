@@ -3,8 +3,8 @@
 ## Créer et administrer une base de données
 ### Dans le cadre de la formation STUDI Développeur Web et Web Mobile 
 
-Conception d'une base de données relationnelles à l'aide la méthode MERISE : 
-MCD, MLD et MDP disponibles dans le fichier Merise Cinema.pdf
+**Conception d'une base de données relationnelles à l'aide la méthode MERISE :** 
+Merise.pdf
 
 **Commandes SQL :**
 
